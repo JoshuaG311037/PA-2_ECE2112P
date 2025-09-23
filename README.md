@@ -1,5 +1,15 @@
 # PA-2_ECE2112P
 
+# Objective
+
+- Normalization Problem
+create a random 5 x 5 ndarray and store it to variable X. Normalize X. Save your normalized
+ndarray as X_normalized.npy
+
+- Divide by 3 Problem
+Create a 10X10 array which are the squares of the first 100 positive integers.
+Then determine the elements divisible by 3
+
 # PA-2
 
 - For the first problem, it required us to create a 5x5 random array and normalize the array. So first initializing the ndarray with a bunch of random numbers using random.rand to generate the numbers, storing the array to the variable X. Then the next step is to normalize the array by using the formula given in the problem as well as the functions .std() and .mean() and apply it to the equation. Then I printed out the original array and the normalized array in order to compare the two arrays.
